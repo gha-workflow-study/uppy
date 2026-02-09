@@ -1,5 +1,11 @@
 # @uppy/companion
 
+## 6.2.2
+
+### Patch Changes
+
+- 49db42d: Fix bug with 429 not returning JSON response with message
+
 ## 6.2.1
 
 ### Patch Changes
